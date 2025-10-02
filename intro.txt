@@ -1,4 +1,4 @@
-Giới thiệu cá nhân
+Xin chào, tôi là Lưu An Thuận
 Tôi là Lưu An Thuận 
 MSSV: 220843
 Mục tiêu của là làm chủ các thao tác commit, branch, merge, và review.
