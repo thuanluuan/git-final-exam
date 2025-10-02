@@ -14,7 +14,13 @@ Mục tiêu chi tiết:
 7) Ghi chép lỗi thường gặp và cách khắc phục vào docs/.
 8) Tổng kết bài học, rút kinh nghiệm, tạo tài liệu tham khảo cá nhân.
 
+<<<<<<< Updated upstream
 Ghi chú bổ sung (stash 1):
 - Lập checklist cuối tuần để tự đánh giá.
 - Tạo bảng so sánh reset/revert/rebase.
 - Viết quick tips về xử lý conflict thường gặp.
+=======
+Ghi chú bổ sung (stash 2):
+- Thử tạo PR nhỏ và mô tả rõ thay đổi.
+- Gắn issue/commit liên quan để truy vết.
+>>>>>>> Stashed changes
