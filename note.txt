@@ -1,3 +1,5 @@
 - Git giúp quản lý lịch sử thay đổi rất rõ ràng.
 - Làm việc theo nhánh giúp tách biệt tính năng và ổn định main.
 - Commit message chuẩn giúp review và truy vết dễ.
+- Reset/Revert rất hữu ích khi cần sửa lại lịch sử an toàn.
+- Pull request và review giúp hạn chế lỗi vào main.
