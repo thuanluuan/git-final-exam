@@ -13,3 +13,8 @@ Mục tiêu chi tiết:
 6) Cấu trúc repo khoa học: README, docs/, quy ước nhánh.
 7) Ghi chép lỗi thường gặp và cách khắc phục vào docs/.
 8) Tổng kết bài học, rút kinh nghiệm, tạo tài liệu tham khảo cá nhân.
+
+Ghi chú bổ sung (stash 1):
+- Lập checklist cuối tuần để tự đánh giá.
+- Tạo bảng so sánh reset/revert/rebase.
+- Viết quick tips về xử lý conflict thường gặp.
