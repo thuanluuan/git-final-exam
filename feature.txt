@@ -1,0 +1,6 @@
+Tính năng: Xuất báo cáo học Git theo tuần
+1) Tự động tổng hợp số lần commit trong tuần.
+2) Liệt kê các branch đã làm việc và PR đã mở.
+3) Trích xuất các file thay đổi chính để làm tài liệu học tập.
+4) Tạo báo cáo markdown trong thư mục docs/reports/.
+5) Tuỳ chọn xuất ra HTML/PDF cho việc nộp bài.
