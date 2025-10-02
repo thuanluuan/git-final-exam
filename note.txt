@@ -1,0 +1,3 @@
+- Git giúp qu?n l? l?ch s? thay đ?i r?t r? ràng.
+- Làm vi?c theo nhánh giúp tách bi?t tính năng và ?n đ?nh main.
+- Commit message chu?n giúp review và truy v?t d?.
