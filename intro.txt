@@ -1,3 +1,4 @@
+Xin chào, tôi là Lưu An Thuận
 Hello, this is Lưu An Thuận
 Tôi là Lưu An Thuận 
 MSSV: 220843
@@ -20,3 +21,4 @@ Kế hoạch học tập
 - Tổ chức repo khoa học: README, quy ước commit, nhánh develop/feature.
 - Viết tài liệu ngắn gọn cho từng bài thực hành.
 - Tổng kết lỗi thường gặp và cách khắc phục để ghi nhớ lâu.
+Conflict resolved on 02/10/2025
