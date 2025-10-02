@@ -1,0 +1,16 @@
+Giới thiệu cá nhân
+Tôi là Lưu An Thuận 
+MSSV: 220843
+Mục tiêu của là làm chủ các thao tác commit, branch, merge, và review.
+Thích viết tài liệu rõ ràng, commit message chuẩn và giữ lịch sử sạch.
+
+Sở thích
+1) Lập trình ứng dụng
+2) Chụp ảnh
+3) Đọc sách công nghệ
+
+Kỹ năng
+1) C# / WinForms / SQL Server
+2) Git & GitHub workflow (branch/PR)
+3) Python cơ bản & tự động hóa
+
