@@ -14,3 +14,9 @@ Kỹ năng
 2) Git & GitHub workflow (branch/PR)
 3) Python cơ bản & tự động hóa
 
+Kế hoạch học tập
+- Ôn lại toàn bộ lệnh Git cơ bản và nâng cao (reset, revert, rebase).
+- Thực hành tạo PR, review code, và merge sạch sẽ.
+- Tổ chức repo khoa học: README, quy ước commit, nhánh develop/feature.
+- Viết tài liệu ngắn gọn cho từng bài thực hành.
+- Tổng kết lỗi thường gặp và cách khắc phục để ghi nhớ lâu.
